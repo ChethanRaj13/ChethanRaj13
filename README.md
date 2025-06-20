@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **DevOps**
 
-- 📫 How to reach me **chethanrajjee@gmail.com**
+- 📫 How to reach me **chethanrajm13@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1qjcWrJnzaRi-8BFpp3ecuqx1CvCLD0DsD-YnAZqk5js/edit?usp=sharing](https://docs.google.com/document/d/1qjcWrJnzaRi-8BFpp3ecuqx1CvCLD0DsD-YnAZqk5js/edit?usp=sharing)
 
