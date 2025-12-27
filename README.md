@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethanraj13" alt="chethanraj13" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently working on **AQI analysis of India**
 
-- 👯 I’m looking to collaborate on **DevOps and Cloud native projects**
+- 👯 I’m looking to collaborate on **Data Science and ML projects**
 
-- 🤝 I’m looking for help with **DevOps and Cloud**
+- 💬 Ask me about **Data Science and Cloud**
 
-- 💬 Ask me about **DevOps**
-
-- 📫 How to reach me **chethanrajm13@gmail.com**
+- 📫 How to reach me **chethanrajjee@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1qjcWrJnzaRi-8BFpp3ecuqx1CvCLD0DsD-YnAZqk5js/edit?usp=sharing](https://docs.google.com/document/d/1qjcWrJnzaRi-8BFpp3ecuqx1CvCLD0DsD-YnAZqk5js/edit?usp=sharing)
 
-- ⚡ Fun fact **I create YouTube videos related to DevOps and Cloud**
+- ⚡ Fun fact **I create YouTube videos related to Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
