@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chethan Raj M</h1>
 <h3 align="center">A Computer Science Engineer who is interested in Data Science and Cloud</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethanraj13" alt="chethanraj13" /></a> </p>
-
 - 🌱 I’m currently working on **AQI analysis of India**
 
 - 👯 I’m looking to collaborate on **Data Science and ML projects**
