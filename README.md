@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chethan Raj M</h1>
-<h3 align="center">A passionate DevOps and Cloud engineer from India</h3>
+<h3 align="center">A passionate Data Scientist and web developer from India</h3>
 
 
-- 🔭 I’m currently working on **AQI analysis of India**
+- 🔭 I’m currently working on **Govt Solve**
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **Web dev**
 
-- 👯 I’m looking to collaborate on **Data Science and Cloud**
+- 👯 I’m looking to collaborate on **Data Science, Web dev and Cloud**
 
-- 🤝 I’m looking for help with **Data Science and Cloud**
+- 🤝 I’m looking for help with **Data Science, Web dev and Cloud**
 
 - 📫 How to reach me **chethanrajjee@gmail.com**
 
