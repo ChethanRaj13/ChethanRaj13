@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Data Scientist and web developer from India</h3>
 
 
-- 🔭 I’m currently working on **Govt Solve**
 
 - 🌱 I’m currently learning **Web dev**
 
