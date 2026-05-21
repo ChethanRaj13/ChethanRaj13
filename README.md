@@ -11,20 +11,24 @@
 
 ---
 
-- 🌱 I’m currently learning **Web dev**
-
-- 👯 I’m looking to collaborate on **Data Science, Web dev and Cloud**
-
-- 🤝 I’m looking for help with **Data Science, Web dev and Cloud**
-
-- 📫 How to reach me **chethanrajjee@gmail.com**
-
+### 🌱 About Me
+- 🚀 I’m currently learning **MERN Stack Development & RAG**.
+- 🤝 I’m open to collaborating on **Interesting Projects** related to **Agentic AI**.
+- 📫 Feel free to reach out to me at **chethanrajjee@gmail.com**.
 - 📄 Resume [https://www.overleaf.com/read/cfshwxrhygvq#fc4892](https://www.overleaf.com/read/cfshwxrhygvq#fc4892)
 
-- ⚡ Fun fact **I create YouTube videos related to Data Science**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 💻 Technologies I've Worked With
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,nodejs,express,mongodb,mysql,linux,flask,sklearn,arduino" />
+</p>
+
+
+---
+
+### 🌐 Connect with Me
+<p>
 <a href="https://linkedin.com/in/www.linkedin.com/in/chethan-raj-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chethan-raj-m" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@chethanraj1531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@chethanraj1531" height="30" width="40" /></a>
 </p>
