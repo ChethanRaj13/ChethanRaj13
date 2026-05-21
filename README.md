@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Chethan Raj M</h1>
-<h3 align="center">A passionate Data Scientist and web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Chethan Raj</h1>
+<h3 align="center">Data Science | Agentic AI | MERN | SJCE CSE'27 </h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChethanRaj13&label=Profile%20Views&color=0e75b6&style=flat" alt="ChethanRaj13" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Tech+Enthusiast+%7C+Developer+%7C+Learner;Always+Open+to+Collaboration+🤝" />
+</p>
+
+---
 
 - 🌱 I’m currently learning **Web dev**
 
